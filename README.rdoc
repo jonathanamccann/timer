@@ -1,4 +1,4 @@
-== Girlfriend Rails App
+== Timer Rails App
 
-A quick rails app I created to countdown to the next time I'll see my girlfriend, or to count how long we've been together.
+A quick rails app I created to countdown to an event.
 
